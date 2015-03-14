@@ -1,0 +1,1 @@
+it is a patch and translation, which conbine a lot of people's hard working.The patch is on the simple chinese and can be use to play the CLANNAD FULLVIOCE normally.
